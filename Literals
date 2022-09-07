@@ -15,6 +15,7 @@ class Literals
         System.out.println(cash);
         System.out.println(num1);
         System.out.println(num2);
+        System.out.println(name);
     }
 }
 // literals are required for long and float. For others its optional like double.
