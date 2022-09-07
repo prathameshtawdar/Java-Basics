@@ -1,0 +1,19 @@
+class Literals
+{
+    public static void main(String[] args)
+    {
+        byte age1 = 45; // need not any literal
+        short age2 = 42;
+        int age3 = 76;
+        long cash = 56373637272434l; // literal
+        float num1 = 45.66f; //literal is optional
+        double num2 = 7863.6473d;
+        
+        System.out.println(age1);
+        System.out.println(age2);
+        System.out.println(age3);
+        System.out.println(cash);
+        System.out.println(num1);
+        System.out.println(num2);
+    }
+}
