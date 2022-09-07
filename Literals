@@ -17,3 +17,4 @@ class Literals
         System.out.println(num2);
     }
 }
+// literals are required for long and float. For others its optional like double.
