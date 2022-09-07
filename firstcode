@@ -1,0 +1,11 @@
+class EmployeeInfo // class name in PascalConvention
+{
+    public static void main(String[] args) 
+    // function name in camelConvention
+    // public - acsses modifier
+    {
+        System.out.println("EMP Name - Prathamesh Dinkar Tawdar.");
+        System.out.println("EMP ID - 781222");
+        System.out.println("Position - Jr.Software Developer.");
+    }
+}
