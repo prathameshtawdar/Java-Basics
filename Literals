@@ -9,6 +9,8 @@ class Literals
         float num1 = 45.66f; //literal 
         double num2 = 7863.6473d; // literal is optional. Its by default.
         char name = 'A';
+        String str = "Prathamesh";
+      
         System.out.println(age1);
         System.out.println(age2);
         System.out.println(age3);
@@ -16,6 +18,7 @@ class Literals
         System.out.println(num1);
         System.out.println(num2);
         System.out.println(name);
+        System.out.println(str);
     }
 }
 // literals are required for long and float. For others its optional like double.
