@@ -8,7 +8,7 @@ class Literals
         long cash = 56373637272434l; // literal
         float num1 = 45.66f; //literal is optional
         double num2 = 7863.6473d;
-        
+        char name = 'A';
         System.out.println(age1);
         System.out.println(age2);
         System.out.println(age3);
