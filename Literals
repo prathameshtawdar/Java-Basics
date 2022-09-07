@@ -6,8 +6,8 @@ class Literals
         short age2 = 42;
         int age3 = 76;
         long cash = 56373637272434l; // literal
-        float num1 = 45.66f; //literal is optional
-        double num2 = 7863.6473d;
+        float num1 = 45.66f; //literal 
+        double num2 = 7863.6473d; // literal is optional. Its by default.
         char name = 'A';
         System.out.println(age1);
         System.out.println(age2);
